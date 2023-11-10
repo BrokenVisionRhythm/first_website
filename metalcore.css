@@ -1,0 +1,30 @@
+html{
+    background-image:URl(3.png) ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: "Imago";
+    text-align: center;
+    font-size: 35px;
+}
+iframe{
+    float:left;
+  
+    border: solid ;
+}
+.text{
+
+    font-size: 25px;
+      text-align: right;
+   
+                
+    }
+    h2{font-family:'Imago'; color: #fff;}
+    .AF{ float:left;}
+    .OG{ float: right;}
+    a:link{
+        color: white;
+    }
+    a:visited{ color: #fff;}

@@ -1,0 +1,30 @@
+html{
+    background-image:URl(monochrome-nature-forest-park-wallpaper.jpg) ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: "Imago";
+    text-align: center;
+    font-size: 35px;
+}
+iframe{
+    float:left;
+    margin: 5px;
+    border: solid 5px;
+}
+.text{
+        color: #fff;
+    font-size: 25px;
+      text-align: justify;
+   
+                
+    }
+    h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: #fff;}
+    .AF{ float:left;}
+    .OG{ float: right;}
+    a:link{
+        color: #fff;
+    }
+    a:visited{ color: #fff;}
